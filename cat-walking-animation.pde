@@ -1,9 +1,8 @@
 // Cat Walking
 // 09/11/2018 by Amelia Crary
 /*ABOUT: A set of 12 custom shapes are strung together to create a cat walking.
-Each draw function contains a custom shape made up of bezier vertices
-created with Bezier Draw to Code, a simple web based JavaScript tool 
-I've been working on. The cat's x position also changes over time to simulate walking.
+Each draw function contains a custom shape made up of bezier vertices.
+The cat's x position also changes over time to simulate walking.
 */
     
 void setup() {
